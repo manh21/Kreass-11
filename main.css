@@ -60,11 +60,11 @@ p {
       -ms-flex-pack: center;
           justify-content: center;
   border-radius: 3px;
-  text-color: #343434;
+  color: #343434;
   font-size: 20px;
   -webkit-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
-  -box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
   margin-right: 20px;
 }
 
@@ -85,7 +85,7 @@ hr {
   margin: 52px 0 0 0;
   -webkit-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
-  -box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
 }
 
 .hero {
@@ -179,7 +179,7 @@ hr {
   background-color: #ffffff;
   -webkit-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
-  -box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
 }
 
 .org {
@@ -199,7 +199,7 @@ hr {
   max-height: 100px;
   -webkit-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
-  -box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 6px 22px 0px rgba(0, 0, 0, 0.08);
 }
 
 .flex-2 {
